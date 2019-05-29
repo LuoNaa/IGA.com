@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "A Hugo website"
+title = "Blog of Lorna"
 theme = "hugo-lithium"
 googleAnalytics = ""
 disqusShortname = ""
@@ -16,8 +16,8 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     name = "GitHub"
     url = "https://github.com/rstudio/blogdown"
 [[menu.main]]
-    name = "Twitter"
-    url = "https://twitter.com/rstudio"
+    name = "Weibo"
+    url = "https://weibo.com/u/6279796450/home?wvr=5"
 
 [params]
     description = "A website built through Hugo and blogdown."
@@ -32,10 +32,10 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     MathJaxVersion = "2.7.5"
 
     # path to the favicon, under "static"
-    favicon = "favicon.ico"
+    favicon = "favicon (2).ico"
 
     [params.logo]
-    url = "logo.png"
+    url = "logo (2).png"
     width = 50
     height = 50
     alt = "Logo"

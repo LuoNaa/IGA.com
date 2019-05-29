@@ -1,0 +1,13 @@
+---
+title: Pachong
+author: Lorna
+date: '2019-05-25'
+slug: pachong
+categories:
+  - R
+tags: []
+---
+ engine_s<-worker(stop_word = "stopwords.txt")
+  f<-freq(seg)
+   f<-f[order(f[2],decreasing=TRUE),]
+   

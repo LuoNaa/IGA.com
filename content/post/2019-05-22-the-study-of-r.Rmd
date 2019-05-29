@@ -1,0 +1,9 @@
+---
+title: The study of R
+author: Lorna
+date: '2019-05-22'
+slug: the-study-of-r
+categories:
+  - R
+tags: []
+---
