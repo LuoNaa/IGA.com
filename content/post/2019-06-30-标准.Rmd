@@ -1,0 +1,9 @@
+---
+title: 标准
+author: Lorna
+date: '2019-06-30'
+slug: 标准
+categories:
+  - R
+tags: []
+---

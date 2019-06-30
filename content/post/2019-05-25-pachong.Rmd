@@ -7,7 +7,8 @@ categories:
   - R
 tags: []
 ---
- engine_s<-worker(stop_word = "stopwords.txt")
-  f<-freq(seg)
-   f<-f[order(f[2],decreasing=TRUE),]
-   
+```{r}
+f2<-f2[1:150,]
+wordcloud2(f2, size = 0.8 ,shape='star') 
+```
+
